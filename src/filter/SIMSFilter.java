@@ -51,7 +51,7 @@ public class SIMSFilter implements Filter {
 	 */
 	@Override
 	public void init(FilterConfig fConfig) throws ServletException {
-プロ野球
+
 	}
 
 }
